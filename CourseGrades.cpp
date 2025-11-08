@@ -5,13 +5,13 @@ What it does: Reads users file and stores information inside struct object. Disp
 && letter grade for each student.
 
 
-How it works: struct Student - creats a struct of students info: name, id, scores, avarage, grade.
+How it works: struct Student - creats a struct of students info: name, id, scores, average, grade.
 
               Student *getData() - stores the information for struct from the file provided by user.
 
-              calcAverage() - calculates avarage grade for student scores.
+              calcAverage() - calculates average grade for student scores.
 
-              getLetterGrade() - turns the avarage score into a letter grade.
+              getLetterGrade() - turns the avarege score into a letter grade.
 
              print() - prints the table with all calculated info.
 
